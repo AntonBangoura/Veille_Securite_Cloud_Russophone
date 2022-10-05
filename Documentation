@@ -1,0 +1,35 @@
+Travail sur la creation d'une base de donnee. <br>
+
+1 – Modéliser la base « E-commerce » avec le logiciel Looping<br>
+
+
+3 – Créer la base de données avec le script issu de Looping.
+
+4 – Travail sur la table clients
+. Créer manuellement 3 clients
+. Exporter la table Clients au format SQL
+. Vider la table clients, recharger son contenu
+
+Ici nous rencontrons une probleme, car il faut creer en amont les criteres necessaires a la creation d un client.
+Nous le faisons donc, et pouvons creer nos trois clients.
+
+Nous l'exportons, et l'importojns.
+
+
+5 – Travail sur la base de données complète
+. Exporter la base complète au format SQL
+. Supprimer la base de données d’origine
+. Restaurer la base de données d’origine
+
+Nous l'exportons, la supprimons et l importons.
+
+
+6 – Utiliser le mode console
+. Tester les commandes du support : MySQL en ligne de commande
+. Créer un script PowerShell ou Bash selon votre contexte, qui automatise la sauvegarde de la base de données
+
+7 – Faire une veille technologique
+. Mettre en place un agrégateur de flux
+. Faire des recherches sur les dernières failles de sécurité de la BDD
+. Faire des recherches sur les prochaines évolutions de la BDD
+. Faire des recherches sur les divers modes de sauvegardes / restaurations : export / import, dump, réplication …

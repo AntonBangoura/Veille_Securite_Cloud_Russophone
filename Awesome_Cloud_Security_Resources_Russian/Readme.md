@@ -1,6 +1,6 @@
 <p align="center">Кураторский список потрясающих ресурсов, связанных с облачной безопасностью.</p>
 
-# :shield: Awesome Cloud Security Resources :crossed_swords:
+# :shield: Ресурсы по облачной безопасности :crossed_swords:
 
 # Указатель
 <ol>

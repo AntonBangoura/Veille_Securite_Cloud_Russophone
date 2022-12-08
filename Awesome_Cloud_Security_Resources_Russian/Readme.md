@@ -26,4 +26,24 @@
 <li>Контейнер</li>
 <li>SaaS</li>
 <li>Xакинг/обучение</li>
+<li>Oблачных</li>
 </ol>
+
+# Инфраструктура
+<ul>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/ThreatResponse/aws_ir">aws_ir</a>: Устанавливаемая на Python утилита командной строки для предотвращения компрометации экземпляров.</li>
+<li> <a href="https://github.com/globaldatanet/aws-firewall-factory">aws-firewall-factory</a>: Развертывайте, обновляйте и размещайте свои WAF, управляя ими централизованно через FMS.</li>
+<li> <a href="https://github.com/99designs/aws-vault">aws-vault</a>: Хранилище для безопасного хранения учетных данных AWS и доступа к ним в средах разработки.</li>
+<li> <a href="https://github.com/WithSecureLabs/awspx">awspx</a>: Графический инструмент для визуализации эффективных отношений доступа и ресурсов в AWS.</li>
+<li> <a href="https://github.com/nccgroup/azucar">azucar</a>: Инструмент аудита безопасности для Azure.</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+  <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+  <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+</ul>

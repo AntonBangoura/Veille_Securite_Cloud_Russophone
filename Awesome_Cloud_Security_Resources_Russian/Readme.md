@@ -22,7 +22,7 @@
 
 # Соответствия
 <ol>
-<li>Инфраструктура</li>
+<li> <a href="https://github.com/AntonBangoura/Veille_Securite_Cloud_Russophone/edit/main/Awesome_Cloud_Security_Resources_Russian/Readme.md#Инфраструктура">Инфраструктура</a></li>
 <li>Контейнер</li>
 <li>SaaS</li>
 <li>Xакинг/обучение</li>

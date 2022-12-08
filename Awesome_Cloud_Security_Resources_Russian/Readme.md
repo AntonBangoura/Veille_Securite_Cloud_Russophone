@@ -19,3 +19,11 @@
   <li> <a href="https://www.imda.gov.sg">MTCS SS 584</a></li>
   <li> <a href="https://www.cisecurity.org/cis-benchmarks/">CIS Benchmark</a></li>
 </ul>
+
+# Соответствия
+<ol>
+<li>Инфраструктура</li>
+<li>Контейнер</li>
+<li>SaaS</li>
+<li>Xакинг/обучение</li>
+</ol>

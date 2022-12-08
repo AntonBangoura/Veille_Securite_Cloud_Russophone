@@ -37,8 +37,8 @@
 <li> <a href="https://github.com/99designs/aws-vault">aws-vault</a>: Хранилище для безопасного хранения учетных данных AWS и доступа к ним в средах разработки.</li>
 <li> <a href="https://github.com/WithSecureLabs/awspx">awspx</a>: Графический инструмент для визуализации эффективных отношений доступа и ресурсов в AWS.</li>
 <li> <a href="https://github.com/nccgroup/azucar">azucar</a>: Инструмент аудита безопасности для Azure.</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
+<li> <a href="https://github.com/bridgecrewio/checkov">checkov</a>: Инструмент статического анализа кода для инфраструктуры как кода.</li>
+<li> <a href="https://github.com/google/cloud-forensics-utils">cloud-forensics-utils</a>: Библиотека Python для DF и IR в облаке.</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
   <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>

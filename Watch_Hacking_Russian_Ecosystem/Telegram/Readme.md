@@ -1,4 +1,4 @@
-# Security watch on russian security-oriented Telegram channels. 
+# Security watch on russian security-oriented Telegram channels
 
 
 <table>

@@ -43,5 +43,4 @@
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 </ul>

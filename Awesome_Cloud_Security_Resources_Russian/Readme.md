@@ -40,10 +40,8 @@
 <li> <a href="https://github.com/bridgecrewio/checkov">checkov</a>: Инструмент статического анализа кода для инфраструктуры как кода.</li>
 <li> <a href="https://github.com/google/cloud-forensics-utils">cloud-forensics-utils</a>: Библиотека Python для DF и IR в облаке.</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-  <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-  <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 <li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
 </ul>

@@ -1,5 +1,7 @@
 # Security watch on Russian security-oriented Telegram chats
 
+For more detailed infos, please contact me at 
+
 
 <table>
   <thead>

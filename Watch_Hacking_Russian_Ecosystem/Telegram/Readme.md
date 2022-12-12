@@ -27,3 +27,5 @@ For more detailed infos, please contact me at
   </table>
 
 # Security watch on Russian security-oriented Telegram channels
+
+For more detailed infos, please contact me at 

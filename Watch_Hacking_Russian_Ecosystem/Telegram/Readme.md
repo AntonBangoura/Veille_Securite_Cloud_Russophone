@@ -67,7 +67,6 @@ For more detailed infos, please contact me at
                 
 
 
-  </table>
 
 # Security watch on Russian security-oriented Telegram channels
 
@@ -83,6 +82,5 @@ For more detailed infos, please contact me at
     </thead>
   <tr><td>3 (3)</td><td>https://t.me/CyberJobsRussia</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
   
-    </table>
 
 

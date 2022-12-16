@@ -82,77 +82,77 @@ For more detailed infos, please contact me at
     </tr>
     </thead>
 
-  <tr><td>https://t.me/zlonov</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/w2hack</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/sitesecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/vschannel</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/VeeSecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/certkznews</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/TheStandoffNews</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/serstorchak</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/SecLabNews</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/true_secator</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/searchinform</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/russian_osint</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/rusiem</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/rusecmedia</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/RuSecJobs</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/ruscadasecnews</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/gdprru</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-    <tr><td>https://t.me/paradisecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/N0iSeBit</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/safelinux</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/Haccking</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/overlamer1</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/k8security</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/itsecforutel</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/itsec_news</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/TG_security</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/itsecalert</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/isast</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/ISACARuSec</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/infosecmemes</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/avleonovcom</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/hackertoys</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-    <tr><td>https://t.me/HNews</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/d1gitalsecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/sec_devops</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/devicelock_ru</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/cyberyozh_official</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/CyberSecurityRussia</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/alexlitreev_channel</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/GCyberSecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/singlesecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/joinchat/Pok9VAO56uZQxWL1</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/cnsec</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/anti_malware</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/exploitex</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/dataleak</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/securiST</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-   <tr><td>https://t.me/ruporsecurite</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/alukatsky</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/Persdata</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/InfoBezEvents</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/bureaucraticsecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/KII187</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-   <tr><td>https://t.me/cybershit</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/webpwn</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/alexmakus</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/infobezopasnost</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/risspa</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/sergeyborisov23</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-   <tr><td>https://t.me/news_infosecurity</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/gebutcher</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/CyberSecurity_webinars</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/ibvebinar</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/kurilka_ib</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/AuthBioDS</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/secwebinars</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/Poibeshechka</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/mis_team</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/attack_community_channel</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/yugoslavskiy_channel</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
-  <tr><td>https://t.me/gk_cibit</td><td>CyberJobsRussia</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/zlonov</td><td>ZLONOV</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/w2hack</td><td>white2hack</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/sitesecurity</td><td>WEBSITE SECURITY</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/vschannel</td><td>Vektor Security Channel</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/VeeSecurity</td><td>Vee Security</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/certkznews</td><td>TSARKA (official channel)</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/TheStandoffNews</td><td>THE STANDOFF NEWS</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/serstorchak</td><td>ser-storchak</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/SecLabNews</td><td>SecurityLab</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/true_secator</td><td>SecAtor</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/searchinform</td><td>SearchInform</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/russian_osint</td><td>Russian OSINT</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/rusiem</td><td>RuSIEM</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/rusecmedia</td><td>rusecmedia</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/RuSecJobs</td><td>RuSecJobs Channel</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/ruscadasecnews</td><td>RUSCADASEC news: Кибербезопасность АСУ ТП</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/gdprru</td><td>Privacy GDPR Russia</td><td>4 167 (+53%)</td></tr>
+    <tr><td>https://t.me/paradisecurity</td><td>paradiSEcurity</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/N0iSeBit</td><td>Noise Security Bit</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/safelinux</td><td>Linux & *nix Security</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/Haccking</td><td>Life-Hack [Жизнь-Взлом]/Хакинг</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/overlamer1</td><td>LAMERLAND - overbafer1</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/k8security</td><td>k8s (in)security</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/itsecforutel</td><td>itsecforu (Информационная безопасность)</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/itsec_news</td><td>ITsec NEWS</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/TG_security</td><td>IT&Безопасность</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/itsecalert</td><td>IT Security Alerts</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/isast</td><td>iSAST & AS Compliance</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/ISACARuSec</td><td>ISACARuSec</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/infosecmemes</td><td>Information Security Memes</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/avleonovcom</td><td>Information Security Automation</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/hackertoys</td><td>Hacker’s TOYS</td><td>4 167 (+53%)</td></tr>
+    <tr><td>https://t.me/HNews</td><td>Hacker News на русском</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/d1gitalsecurity</td><td>Digital Security</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/sec_devops</td><td>DevSecOps Wine</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/devicelock_ru</td><td>DeviceLock RU</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/cyberyozh_official</td><td>CyberYozh</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/CyberSecurityRussia</td><td>CyberSecurityRussia</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/alexlitreev_channel</td><td>Cybersecurity & Co.</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/GCyberSecurity</td><td>CyberSecurity</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/singlesecurity</td><td>Cyber Security</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/joinchat/Pok9VAO56uZQxWL1</td><td>Codeby Pentest</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/cnsec</td><td>CNsec</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/anti_malware</td><td>Anti_Malware</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/exploitex</td><td>Эксплойт</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/dataleak</td><td>Утечки информации</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/securiST</td><td>СекьюриСТ</td><td>4 167 (+53%)</td></tr>
+   <tr><td>https://t.me/ruporsecurite</td><td>Рупор бумажной безопасности</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/alukatsky</td><td>Пост Лукацкого</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/Persdata</td><td>Персональные_данные</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/InfoBezEvents</td><td>Мероприятия по ИБ</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/bureaucraticsecurity</td><td>Листок бюрократической защиты информации</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/KII187</td><td>КИИ 187-ФЗ (новости)</td><td>4 167 (+53%)</td></tr>
+   <tr><td>https://t.me/cybershit</td><td>Киберп@#$%ц</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/webpwn</td><td>Кавычка</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/alexmakus</td><td>Информация опасносте</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/infobezopasnost</td><td>Информация без опасностей (безопасность)</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/risspa</td><td>Интересно #поИБэ</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/sergeyborisov23</td><td>Избранное про ИБ</td><td>4 167 (+53%)</td></tr>
+   <tr><td>https://t.me/news_infosecurity</td><td>ИБшнику</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/gebutcher</td><td>Заметки Gebutcher</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/CyberSecurity_webinars</td><td>Вебинары и события #поИБ</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/ibvebinar</td><td>Вебинары и доклады по ИБ</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/kurilka_ib</td><td>Банковская ИБ</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/AuthBioDS</td><td>Аутентификация, биометрия, электронная подпись</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/secwebinars</td><td>Анонсы лучших ИБ мероприятий</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/Poibeshechka</td><td>#ПоИБэшечка</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/mis_team</td><td>[MIS]ter & [MIS]sis Team</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/attack_community_channel</td><td>ATT&CK® COMMUNITY RUSSIA CHANNEL</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/yugoslavskiy_channel</td><td>Югославский канал</td><td>4 167 (+53%)</td></tr>
+  <tr><td>https://t.me/gk_cibit</td><td>ЦИБИТ</td><td>4 167 (+53%)</td></tr>
 
 
 

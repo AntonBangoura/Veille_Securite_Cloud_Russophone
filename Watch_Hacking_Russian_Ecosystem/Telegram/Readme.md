@@ -61,7 +61,7 @@ For more detailed infos, please contact me at
   <tr><td>47 (45)</td><td>https://t.me/FZ187KII</td><td>КИИ 187-ФЗ (чат)</td><td>162 (+7%)</td></tr>
   <tr><td>48 (н/д)</td><td>https://t.me/apple_cybersec</td><td>Apple CyberSecurity RU</td><td>153 (н/д)</td></tr>
 
-
+</table>
 
   
                 
@@ -71,6 +71,8 @@ For more detailed infos, please contact me at
 # Security watch on Russian security-oriented Telegram channels
 
 For more detailed infos, please contact me at 
+  
+  
 <table>
   <thead>
     <tr>

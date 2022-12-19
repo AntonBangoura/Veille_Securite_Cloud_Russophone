@@ -1,6 +1,6 @@
 # Security watch on Russian security-oriented Telegram chats
 
-For more detailed infos, please contact me at 
+For more detailed infos, please contact me at https://ua.linkedin.com/in/anton-bangoura-68a2151a2
 
 
 <table>
@@ -70,7 +70,7 @@ For more detailed infos, please contact me at
 
 # Security watch on Russian security-oriented Telegram channels
 
-For more detailed infos, please contact me at 
+For more detailed infos, please contact me at https://ua.linkedin.com/in/anton-bangoura-68a2151a2
   
   
 <table>

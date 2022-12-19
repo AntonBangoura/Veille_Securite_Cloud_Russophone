@@ -37,138 +37,138 @@
 * [azucar](https://github.com/nccgroup/azucar): Инструмент аудита безопасности для Azure.
 * [checkov](https://github.com/bridgecrewio/checkov): Инструмент статического анализа кода для инфраструктуры как кода.
 * [cloud-forensics-utils](https://github.com/google/cloud-forensics-utils): Библиотека Python для DF и IR в облаке.
-* [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
-* [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
-* [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): A platform designed to manage Cloud Security Operations.
-* [Cloudmapper](https://github.com/duo-labs/cloudmapper): Analyze your AWS environments.
-* [Cloudmarker](https://github.com/cloudmarker/cloudmarker): A cloud monitoring tool and framework.
-* [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud security configuration checks.
-* [CloudQuery](https://github.com/cloudquery/cloudquery): Open source cloud asset inventory with set of pre-baked SQL [policies](https://hub.cloudquery.io/policies) for security and compliance.
-* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Rules engine for cloud security, cost optimization, and governance.
-* [consoleme](https://github.com/Netflix/consoleme): A Central Control Plane for AWS Permissions and Access
-* [cs suite](https://github.com/SecurityFTW/cs-suite): Tool for auditing the security posture of AWS/GCP/Azure.
-* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper): Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
-* [dftimewolf](https://github.com/log2timeline/dftimewolf): A multi-cloud framework for orchestrating forensic collection, processing and data export.
-* [diffy](https://github.com/Netflix-Skunkworks/diffy): Diffy is a digital forensics and incident response (DFIR) tool developed by Netflix.
-* [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
-* [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
-* [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
-* [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
-* [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
-* [Metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
-* [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
-* [pacbot](https://github.com/tmobile/pacbot): Policy as Code Bot.
-* [pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework.
-* [Prowler](https://github.com/toniblyx/prowler): Command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-cloud security auditing tool.
-* [Security Monkey](https://github.com/Netflix/security_monkey): Monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-* [SkyWrapper](https://github.com/cyberark/SkyWrapper): Tool helps to discover suspicious creation forms and uses of temporary tokens in AWS.
-* [Smogcloud](https://github.com/BishopFox/smogcloud): Find cloud assets that no one wants exposed.
-* [Steampipe](https://github.com/turbot/steampipe): A Postgres FDW that maps APIs to SQL, plus suites of [API plugins](https://hub.steampipe.io/plugins) and [compliance mods](https://hub.steampipe.io/mods) for AWS/Azure/GCP and many others.
-* [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-* [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
-* [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
+* [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Автоматизируйте выполнение шагов моделирования в гибридных облачных средах.
+* [cloudlist](https://github.com/projectdiscovery/cloudlist): Список активов от нескольких облачных провайдеров.
+* [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): Платформа, предназначенная для управления облачными операциями безопасности.
+* [Cloudmapper](https://github.com/duo-labs/cloudmapper): Проанализируйте свои среды AWS.
+* [Cloudmarker](https://github.com/cloudmarker/cloudmarker): Инструмент и инфраструктура облачного мониторинга.
+* [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Проверки конфигурации облачной безопасности.
+* [CloudQuery](https://github.com/cloudquery/cloudquery): Инвентаризация облачных ресурсов с открытым исходным кодом с набором готовых политик SQL для обеспечения безопасности и соответствия требованиям.
+* [Cloud-custodian](https://github.com/cloud-custodian/cloud-custodian): Механизм правил для облачной безопасности, оптимизации затрат и управления.
+* [consoleme](https://github.com/Netflix/consoleme): Плоскость центрального управления для разрешений и доступа AWS.
+* [cs suite](https://github.com/SecurityFTW/cs-suite): Инструмент для аудита состояния безопасности AWS/GCP/Azure.
+* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper): Apache v2, мощный сканер уязвимостей во время выполнения для Kubernetes, виртуальных машин и бессерверных приложений.
+* [dftimewolf](https://github.com/log2timeline/dftimewolf): Мультиоблачная среда для организации криминалистического сбора, обработки и экспорта данных.
+* [diffy](https://github.com/Netflix-Skunkworks/diffy): Diffy — это инструмент цифровой криминалистики и реагирования на инциденты (DFIR), разработанный Netflix.
+* [ElectricEye](https://github.com/jonrau1/ElectricEye): Постоянно отслеживайте конфигурации сервисов AWS.
+* [Forseti security](https://github.com/forseti-security/forseti-security): Инструмент мониторинга ресурсов GCP и обеспечения соблюдения правил.
+* [Hammer](https://github.com/dowjones/hammer): Инструмент облачной безопасности с несколькими учетными записями для AWS. Он выявляет неправильные конфигурации и незащищенные данные в самых популярных ресурсах AWS.
+* [kics](https://github.com/Checkmarx/kics): Выявляйте уязвимости в системе безопасности, проблемы с соблюдением нормативных требований и неправильные конфигурации инфраструктуры на ранних этапах цикла разработки вашей инфраструктуры как кода.
+* [Matano](https://github.com/matanolabs/matano): Бессерверная платформа озера безопасности с открытым исходным кодом на AWS, которая позволяет принимать, хранить и анализировать данные в озере данных Apache Iceberg, а также выполнять обнаружение Python в реальном времени в виде кода.
+* [Metabadger](https://github.com/salesforce/metabadger): Предотвращайте атаки SSRF на AWS EC2 с помощью автоматического обновления до более безопасной службы метаданных экземпляров версии 2 (IMDSv2).
+* [Open policy agent](https://www.openpolicyagent.org/): Инструмент управления на основе политик.
+* [pacbot](https://github.com/tmobile/pacbot): Политика как Code Bot.
+* [pacu](https://github.com/RhinoSecurityLabs/pacu): Платформа эксплуатации AWS.
+* [Prowler](https://github.com/toniblyx/prowler): Инструмент командной строки для AWS Security Best Practices Assessment, Auditing, Hardening and Forensic Readiness Tool.
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Мультиоблачный инструмент аудита безопасности.
+* [Security Monkey](https://github.com/Netflix/security_monkey): Отслеживает организации AWS, GCP, OpenStack и GitHub на наличие активов и их изменений с течением времени.
+* [SkyWrapper](https://github.com/cyberark/SkyWrapper): Инструмент помогает обнаруживать подозрительные формы создания и использования временных токенов в AWS.
+* [Smogcloud](https://github.com/BishopFox/smogcloud): Найдите облачные ресурсы, которые никому не нужны.
+* [Steampipe](https://github.com/turbot/steampipe): Postgres FDW, который сопоставляет API с SQL, а также наборы plugin API и моды соответствия для AWS/Azure/GCP и многих других.
+* [Terrascan](https://github.com/accurics/terrascan): Выявляйте нарушения нормативных требований и безопасности в рамках инфраструктуры как кода, чтобы снизить риски, прежде чем создавать собственную облачную инфраструктуру.
+* [tfsec](https://github.com/liamg/tfsec): Сканер безопасности на базе статического анализа для кода Terraform.
+* [Zeus](https://github.com/DenizParlak/Zeus): Инструмент аудита и усиления безопасности AWS.
 
-## Container
-* [auditkube](https://github.com/opszero/auditkube): Audit for for EKS, AKS and GKE for HIPAA/PCI/SOC2 compliance and cloud security.
-* [Falco](https://github.com/falcosecurity/falco): Container runtime security.
-* [mkit](https://github.com/darkbitio/mkit): Managed kubernetes inspection tool.
-* [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
+## Контейнер
+* [auditkube](https://github.com/opszero/auditkube): Аудит для EKS, AKS и GKE на соответствие HIPAA/PCI/SOC2 и облачную безопасность.
+* [Falco](https://github.com/falcosecurity/falco): Безопасность во время выполнения контейнера.
+* [mkit](https://github.com/darkbitio/mkit): Управляемый инструмент проверки kubernetes.
+* [Open policy agent](https://www.openpolicyagent.org/): Инструмент управления на основе политик.
 
 ## SaaS
-* [aws-allowlister](https://github.com/salesforce/aws-allowlister): Automatically compile an AWS Service Control Policy with your preferred compliance frameworks.
-* [binaryalert](https://github.com/airbnb/binaryalert): Serverless S3 yara scanner.
-* [cloudsplaining](https://github.com/salesforce/cloudsplaining): An AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-* [Cloud Guardrails](https://github.com/salesforce/cloud-guardrails): Rapidly cherry-pick cloud security guardrails by generating Terraform files that create Azure Policy Initiatives.
-* [Function Shield](https://github.com/puresec/FunctionShield): Protection/destection lib of aws lambda and gcp function.
-* [FestIN](https://github.com/cr0hn/festin): S3 bucket finder and content discover.
-* [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets.
-* [IAM Zero](https://github.com/common-fate/iamzero): Detects identity and access management issues and automatically suggests least-privilege policies.
-* [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): AWS Lambda auditing tool.
-* [Policy Sentry](https://github.com/salesforce/policy_sentry): IAM Least Privilege Policy Generator.
-* [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
-* [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
-* [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
+* [aws-allowlister](https://github.com/salesforce/aws-allowlister): Автоматически компилируйте политику управления сервисами AWS с предпочитаемыми вами платформами соответствия.
+* [binaryalert](https://github.com/airbnb/binaryalert): Бессерверный сканер Yara S3.
+* [cloudsplaining](https://github.com/salesforce/cloudsplaining): Инструмент оценки безопасности AWS IAM, который выявляет нарушения минимальных привилегий и создает отчет с приоритетом риска.
+* [Cloud Guardrails](https://github.com/salesforce/cloud-guardrails): Быстро отбирайте средства безопасности в облаке, создавая файлы Terraform, которые создают Инициативы политик Azure.
+* [Function Shield](https://github.com/puresec/FunctionShield): Библиотека защиты/обнаружения функции aws lambda и gcp.
+* [FestIN](https://github.com/cr0hn/festin): Поиск ведра S3 и обнаружение контента.
+* [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): Скрипт для перечисления сегментов Google Storage.
+* [IAM Zero](https://github.com/common-fate/iamzero): Обнаруживает проблемы с идентификацией и управлением доступом и автоматически предлагает политики наименьших привилегий.
+* [Lambda Guard](https://github.com/Skyscanner/LambdaGuard): Инструмент аудита AWS Lambda.
+* [Policy Sentry](https://github.com/salesforce/policy_sentry): Генератор политик наименьших привилегий IAM.
+* [S3 Inspector](https://github.com/kromtech/s3-inspector): Инструмент для проверки разрешений корзины AWS S3.
+* [Serverless Goat](https://github.com/OWASP/Serverless-Goat): Бессерверное приложение, демонстрирующее распространенные недостатки безопасности без сервера.
+* [SkyArk](https://github.com/cyberark/SkyArk): Инструмент, помогающий обнаруживать, оценивать и защищать наиболее привилегированные объекты в Azure и AWS.
 
-## Penetration testing/learning
-* [ccat](https://github.com/RhinoSecurityLabs/ccat): Cloud Container Attack Tool.
-* [CloudBrute](https://github.com/0xsha/CloudBrute): A multiple cloud enumerator.
-* [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): "Vulnerable by Design" AWS deployment tool.
-* [Leonidas](https://github.com/FSecureLABS/leonidas): A framework for executing attacker actions in the cloud.
-* [Sadcloud](https://github.com/nccgroup/sadcloud): Tool for spinning up insecure AWS infrastructure with Terraform.
-* [TerraGoat](https://github.com/bridgecrewio/terragoat): Bridgecrew's "Vulnerable by Design" Terraform repository.
-* [WrongSecrets](https://github.com/commjoen/wrongsecrets): A vulnerable app which demonstrates how to not use secrets. With AWS/Azure/GCP support.
+## Xакинг/обучение
+* [ccat](https://github.com/RhinoSecurityLabs/ccat): Инструмент атаки на облачный контейнер.
+* [CloudBrute](https://github.com/0xsha/CloudBrute): Перечислитель нескольких облаков.
+* [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat): «Уязвимый по дизайну» инструмент развертывания AWS.
+* [Leonidas](https://github.com/FSecureLABS/leonidas): Фреймворк для выполнения действий злоумышленника в облаке.
+* [Sadcloud](https://github.com/nccgroup/sadcloud): Инструмент для развертывания небезопасной инфраструктуры AWS с помощью Terraform.
+* [TerraGoat](https://github.com/bridgecrewio/terragoat): Репозиторий Terraform «Уязвимый по замыслу» компании Bridgecrew.
+* [WrongSecrets](https://github.com/commjoen/wrongsecrets): Уязвимое приложение, демонстрирующее, как не использовать секреты. С поддержкой AWS/Azure/GCP.
 
-## Native tools
+## Oблачных
 * AWS
-  * [Artifact](https://aws.amazon.com/artifact/): Compliance report selfservice.
-  * [Audit manager](https://aws.amazon.com/audit-manager/): Continuously audit for AWS usage.
-  * [Certificate Manager](https://aws.amazon.com/certificate-manager/): Private CA and certificate management service.
-  * [CloudTrail](https://aws.amazon.com/cloudtrail/): Record and log API call on AWS.
-  * [Config](https://aws.amazon.com/config/): Configuration and resources relationship monitoring.
-  * [Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/): Application recovery service.
-  * [Detective](https://aws.amazon.com/detective/): Analyze and visualize security data and help security investigations.
-  * [Firewall Manager](https://aws.amazon.com/firewall-manager/): Firewall management service.
-  * [GuardDuty](https://aws.amazon.com/guardduty/): IDS service
-  * [CloudHSM](https://aws.amazon.com/cloudhsm/): HSM service.
-  * [Inspector](https://aws.amazon.com/inspector/): Vulnerability discover and assessment service.
-  * [KMS](https://aws.amazon.com/kms/): KMS service
-  * [Macie](https://aws.amazon.com/macie/): Fully managed data security and data privacy service for S3.
-  * [Network Firewall](https://aws.amazon.com/network-firewall/): Network firewall service.
-  * [Secret Manager](https://aws.amazon.com/secrets-manager/): Credential management service.
-  * [Security Hub](https://aws.amazon.com/security-hub/): Integration service for other AWS and third-party security service. 
-  * [Shield](https://aws.amazon.com/shield/): DDoS protection service.
-  * [Single Sign-On](https://aws.amazon.com/single-sign-on/): Service of centrally manage access AWS or application.
-  * [ThreatMapper](https://github.com/deepfence/ThreatMapper): Identify vulnerabilities in running containers, images, hosts and repositories.
-  * [VPC Flowlog](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html): Log of network traffic.
-  * [WAF](https://aws.amazon.com/waf/): Web application firewall service.
+  * [Artifact](https://aws.amazon.com/artifact/): Самообслуживание отчета о соответствии.
+  * [Audit manager](https://aws.amazon.com/audit-manager/): Постоянно проверяйте использование AWS.
+  * [Certificate Manager](https://aws.amazon.com/certificate-manager/): Частный ЦС и служба управления сертификатами.
+  * [CloudTrail](https://aws.amazon.com/cloudtrail/): Записывайте и регистрируйте вызовы API на AWS.
+  * [Config](https://aws.amazon.com/config/): Мониторинг взаимосвязи конфигурации и ресурсов.
+  * [Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/): Сервис восстановления приложений.
+  * [Detective](https://aws.amazon.com/detective/): Анализируйте и визуализируйте данные безопасности и помогайте расследованиям безопасности.
+  * [Firewall Manager](https://aws.amazon.com/firewall-manager/): Служба управления брандмауэром.
+  * [GuardDuty](https://aws.amazon.com/guardduty/): Cервис ИДС.
+  * [CloudHSM](https://aws.amazon.com/cloudhsm/): Cервис ХСМ.
+  * [Inspector](https://aws.amazon.com/inspector/): Служба обнаружения и оценки уязвимостей.
+  * [KMS](https://aws.amazon.com/kms/): Cервис KMS.
+  * [Macie](https://aws.amazon.com/macie/): Полностью управляемая служба безопасности и конфиденциальности данных для S3.
+  * [Network Firewall](https://aws.amazon.com/network-firewall/): Служба сетевого брандмауэра.
+  * [Secret Manager](https://aws.amazon.com/secrets-manager/): Служба управления учетными данными.
+  * [Security Hub](https://aws.amazon.com/security-hub/): Служба интеграции для других AWS и сторонних служб безопасности.
+  * [Shield](https://aws.amazon.com/shield/): Служба защиты от DDoS-атак.
+  * [Single Sign-On](https://aws.amazon.com/single-sign-on/): Сервис централизованного управления доступом AWS или приложения.
+  * [ThreatMapper](https://github.com/deepfence/ThreatMapper): Выявление уязвимостей в запущенных контейнерах, образах, хостах и репозиториях.
+  * [VPC Flowlog](https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html): Журнал сетевого трафика.
+  * [WAF](https://aws.amazon.com/waf/): Служба брандмауэра веб-приложений.
 * Azure
-  * [Application Gateway](https://azure.microsoft.com/en-us/services/application-gateway/): L7 load balancer with optional WAF function.
-  * [DDoS Protection](https://azure.microsoft.com/en-us/services/ddos-protection/): DDoS protection service.
-  * [Dedicated HSM](https://azure.microsoft.com/en-us/services/azure-dedicated-hsm/): HSM service.
-  * [Key Vault](https://azure.microsoft.com/en-us/services/key-vault/): KMS service
-  * [Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/): API log and monitoring related service.
-  * [Security Center](https://azure.microsoft.com/en-us/services/security-center/): Integration service for other Azure and third-party security service.
-  * [Sentinel](https://azure.microsoft.com/zh-tw/services/azure-sentinel/): SIEM service.
+  * [Application Gateway](https://azure.microsoft.com/en-us/services/application-gateway/): Балансировщик нагрузки L7 с дополнительной функцией WAF.
+  * [DDoS Protection](https://azure.microsoft.com/en-us/services/ddos-protection/): Служба защиты от DDoS-атак.
+  * [Dedicated HSM](https://azure.microsoft.com/en-us/services/azure-dedicated-hsm/): Cервис HSM.
+  * [Key Vault](https://azure.microsoft.com/en-us/services/key-vault/): Cервис KMS.
+  * [Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/): Журнал API и сервис, связанный с мониторингом.
+  * [Security Center](https://azure.microsoft.com/en-us/services/security-center/): Служба интеграции для других служб безопасности Azure и сторонних поставщиков.
+  * [Sentinel](https://azure.microsoft.com/zh-tw/services/azure-sentinel/): Cервис SIEM.
 * GCP
-  * [Access Transparency](https://cloud.google.com/access-transparency): Transparency log and control of GCP.
-  * [Apigee Sense](https://cloud.google.com/apigee/api-management/apigee-sense): API security monitoring, detection, mitigation.
-  * [Armor](https://cloud.google.com/armor): DDoS protection and WAF service
-  * [Asset Inventory](https://cloud.google.com/asset-inventory): Asset monitoring service.
-  * [Assured workloads](https://cloud.google.com/assured-workloads/): Secure and compliant workloads.
-  * [Audit Logs](https://cloud.google.com/audit-logs): API logs.
-  * [Binanry Authorization](https://cloud.google.com/binary-authorization/): Binary authorization service for containers and serverless.
-  * [Cloud HSM](https://cloud.google.com/hsm): HSM service.
-  * [Cloud IDS](https://cloud.google.com/intrusion-detection-system/): IDS service.
-  * [Confidential VM](https://cloud.google.com/compute/confidential-vm/): Encrypt data in use with VM.
-  * [Context-aware Access](https://cloud.google.com/context-aware-access): Enable zero trust access to applications and infrastructure.
-  * [DLP](https://cloud.google.com/dlp): DLP service:
-  * [EKM](https://cloud.google.com/ekm): External key management service
-  * [Identity-Aware Proxy](https://cloud.google.com/iap): Identity-Aware Proxy for protect the internal service.
-  * [KMS](https://cloud.google.com/kms): KMS service
-  * [Policy Intelligence](https://cloud.google.com/policy-intelligence): Detect the policy related risk.
-  * [Security Command Center](https://cloud.google.com/security-command-center): Integration service for other GCP security service.
-  * [Security Scanner](https://cloud.google.com/security-scanner): Application security scanner for GAE, GCE, GKE.
-  * [Shielded VM](https://cloud.google.com/compute/shielded-vm/): VM with secure boot and vTPM.
-  * [Event Threat Detection](https://cloud.google.com/event-threat-detection): Threat dection service.
-  * [VPC Service Controls](https://cloud.google.com/vpc-service-controls): GCP service security perimeter control.
+  * [Access Transparency](https://cloud.google.com/access-transparency): Журнал прозрачности и контроль GCP.
+  * [Apigee Sense](https://cloud.google.com/apigee/api-management/apigee-sense): Мониторинг безопасности API, обнаружение, смягчение последствий.
+  * [Armor](https://cloud.google.com/armor): Защита от DDoS и сервис WAF.
+  * [Asset Inventory](https://cloud.google.com/asset-inventory): Сервис мониторинга активов.
+  * [Assured workloads](https://cloud.google.com/assured-workloads/): Безопасные и совместимые рабочие нагрузки.
+  * [Audit Logs](https://cloud.google.com/audit-logs): API журналы.
+  * [Binanry Authorization](https://cloud.google.com/binary-authorization/): Сервис бинарной авторизации для контейнеров и безсерверных.
+  * [Cloud HSM](https://cloud.google.com/hsm): Cервис HSM.
+  * [Cloud IDS](https://cloud.google.com/intrusion-detection-system/): Cервис IDS.
+  * [Confidential VM](https://cloud.google.com/compute/confidential-vm/): Шифруйте данные, используемые с виртуальной машиной.
+  * [Context-aware Access](https://cloud.google.com/context-aware-access): Включите доступ с нулевым доверием к приложениям и инфраструктуре.
+  * [DLP](https://cloud.google.com/dlp): Cервис DLP:
+  * [EKM](https://cloud.google.com/ekm): Внешняя служба управления ключами
+  * [Identity-Aware Proxy](https://cloud.google.com/iap): Identity-Aware Proxy для защиты внутренней службы.
+  * [KMS](https://cloud.google.com/kms): Cервис KMS.
+  * [Policy Intelligence](https://cloud.google.com/policy-intelligence): Обнаружение риска, связанного с политикой.
+  * [Security Command Center](https://cloud.google.com/security-command-center): Служба интеграции для другой службы безопасности GCP.
+  * [Security Scanner](https://cloud.google.com/security-scanner): Сканер безопасности приложений для GAE, GCE, GKE.
+  * [Shielded VM](https://cloud.google.com/compute/shielded-vm/): ВМ с безопасной загрузкой и vTPM.
+  * [Event Threat Detection](https://cloud.google.com/event-threat-detection): Служба обнаружения угроз.
+  * [VPC Service Controls](https://cloud.google.com/vpc-service-controls): Контроль периметра безопасности службы GCP.
 
 # Reading Materials
 - [AWS](#aws)
 - [Azure](#azure)
 - [GCP](#gcp)
-- [Others](#others)
+- [Другие](#Другие)
 
 ## AWS
 1. [Overiew of AWS Security](https://aws.amazon.com/security/)
-2. [AWS-IAM-Privilege-Escalation by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods.
+2. [AWS-IAM-Privilege-Escalation by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): Централизованный источник всех методов повышения привилегий AWS IAM.
 3. [MITRE ATT&CK Matrices of AWS](https://attack.mitre.org/matrices/enterprise/cloud/aws/)
 4. [AWS security workshops](https://github.com/aws-samples/aws-security-workshops)
-5. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3): Library of all the attack scenarios on Amazon S3, and how to mitigate them following a risk-based approach
+5. [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3): Библиотека всех сценариев атак на Amazon S3 и способов их смягчения с использованием подхода, основанного на оценке рисков.
 ## Azure
 1. [Overiew of Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 2. [Azure security fundamentals](https://docs.microsoft.com/en-us/azure/security/fundamentals/)
-3. [MicroBurst by NetSPI](https://github.com/NetSPI/MicroBurst): A collection of scripts for assessing Microsoft Azure security
+3. [MicroBurst by NetSPI](https://github.com/NetSPI/MicroBurst): Коллекция скриптов для оценки безопасности Microsoft Azure.
 4. [MITRE ATT&CK Matrices of Azure](https://attack.mitre.org/matrices/enterprise/cloud/azure/)
 5. [Azure security center workflow automation](https://github.com/Azure/Azure-Security-Center/tree/master/Workflow%20automation)
 ## GCP
@@ -176,21 +176,19 @@
 2. [GKE security scenarios demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo)
 3. [MITRE ATT&CK Matrices of GCP](https://attack.mitre.org/matrices/enterprise/cloud/gcp/)
 4. [Security response automation](https://github.com/GoogleCloudPlatform/security-response-automation)
-## Others
+## Другие
 1. [Cloud Security Research by RhinoSecurityLabs](https://github.com/RhinoSecurityLabs/Cloud-Security-Research) 
 2. [CSA cloud security guidance v4](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
 3. [Appsecco provides training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
-4. [Cloud Risk Encyclopedia by Orca Security](https://orca.security/resources/cloud-risk-encyclopedia/): 900+ documented cloud security risks, with ability to filter by cloud vendor, compliance framework, risk category, and criticality.
+4. [Cloud Risk Encyclopedia by Orca Security](https://orca.security/resources/cloud-risk-encyclopedia/): Более 900 задокументированных рисков облачной безопасности с возможностью фильтрации по поставщику облачных услуг, системе соответствия, категории риска и критичности.
 
 # Resource
 - [AWS](#aws-1)
-- [Others](#others-1)
+- [Другие](#others-1)
 ## AWS
 1. [Bucket search by grayhatwarfare](https://buckets.grayhatwarfare.com/)
 
-## Others
+## Другие
 1. [Mapping of On-Premises Security Controls vs. Major Cloud Providers Services](https://www.eventid.net/docs/onprem_to_cloud.asp)
 
-# Contributing
-See [contributing](https://github.com/4ndersonLin/awesome-cloud-security/blob/master/CONTRIBUTING.md)
-
+# Большое спасибо за "Amazing Cloud ressources" от 4andersonlin за его потрясающую работу!

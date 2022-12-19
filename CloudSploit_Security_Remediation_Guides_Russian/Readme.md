@@ -3,13 +3,13 @@
 
 # CloudSploit Security Remediation Guides
 
-CloudSploit's remediation guides are intended to be an open-source resource for improving cloud security. Many cloud IaaS providers like AWS, Azure, and Google Cloud have a shared responsibility model. They provide the physical and architectural security, along with tools to properly secure the services they offer, but it is up to the user to configure those settings properly.
+Руководства по исправлению CloudSploit предназначены для использования в качестве ресурса с открытым исходным кодом для повышения безопасности облака. Многие поставщики облачных услуг IaaS, такие как AWS, Azure и Google Cloud, используют модель общей ответственности. Они обеспечивают физическую и архитектурную безопасность, а также инструменты для надлежащей защиты предлагаемых ими услуг, но пользователь должен правильно настроить эти параметры.
 
-## Background
+## происхождение
 
-This repository is an extension of CloudSploit's [open-source scanning engine](https://github.com/cloudsploit/scans). We first released the scanning engine in 2015, and this documentation repository is a natural follow up to that tool. The goal of these guides are to provide detailed steps on remediation common security issues in cloud services.
+Этот репозиторий является расширением [движка сканирования с открытым исходным кодом] CloudSploit (https://github.com/cloudsploit/scans). Мы впервые выпустили модуль сканирования в 2015 году, и этот репозиторий документации является естественным продолжением этого инструмента. Цель этих руководств — предоставить подробные инструкции по устранению распространенных проблем безопасности в облачных службах.
 
-## Table of Contents
+## Оглавление
 
 * AWS
     * ACM

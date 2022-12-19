@@ -153,7 +153,7 @@
   * [Event Threat Detection](https://cloud.google.com/event-threat-detection): Служба обнаружения угроз.
   * [VPC Service Controls](https://cloud.google.com/vpc-service-controls): Контроль периметра безопасности службы GCP.
 
-# Reading Materials
+# Материалы для чтения
 - [AWS](#aws)
 - [Azure](#azure)
 - [GCP](#gcp)
@@ -182,7 +182,7 @@
 3. [Appsecco provides training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training)
 4. [Cloud Risk Encyclopedia by Orca Security](https://orca.security/resources/cloud-risk-encyclopedia/): Более 900 задокументированных рисков облачной безопасности с возможностью фильтрации по поставщику облачных услуг, системе соответствия, категории риска и критичности.
 
-# Resource
+# Ресурс
 - [AWS](#aws-1)
 - [Другие](#others-1)
 ## AWS

@@ -22,13 +22,13 @@
 * [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 
 # Инструменты
-- [Инфраструктура](#infrastructure)
+- [Инфраструктура](#Инфраструктура)
 - [Контейнер](#Контейнер)
 - [SaaS](#saas)
 - [Xакинг/обучение](#Xакинг/обучение)
 - [Oблачных](#Oблачных)
 
-## Infrastructure
+## Инфраструктура
 * [aws_pwn](https://github.com/dagrz/aws_pwn): Инструменты и методы тестирования безопасности AWS.
 * [aws_ir](https://github.com/ThreatResponse/aws_ir): Устанавливаемая на Python утилита командной строки для предотвращения компрометации экземпляров.
 * [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory): Развертывайте, обновляйте и размещайте свои WAF, управляя ими централизованно через FMS.

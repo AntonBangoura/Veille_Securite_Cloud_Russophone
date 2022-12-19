@@ -1,4 +1,4 @@
-### Veille de securite concernant le monde russophone pour la securite relatives au cloud.
+### Veille de securite concernant le monde russophone pour la securite relative au cloud.
 
 1- Report of cloud-related security tools. <br>
 2- Watch of security ecosystem in russian-speaking infosphere.

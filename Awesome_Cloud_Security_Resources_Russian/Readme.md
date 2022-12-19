@@ -1,97 +1,43 @@
-<p align="center">Кураторский список потрясающих ресурсов, связанных с облачной безопасностью.</p>
-
-# :shield: Ресурсы по облачной безопасности :crossed_swords:
-
-# Указатель
-<ol>
-<li>Стандарты</li>
-<li>Инструменты</li>
-<li>Материалы для чтения</li>
-<li>Ресурс</li>
-</ol>
-
-# Соответствия
-
-<ul>
-<li> <a href="https://cloudsecurityalliance.org/star/">CSA STAR</a></li>
-  <li> <a href="https://www.iso.org/standard/43757.html">ISO/IEC 27017:2015</a></li>
-  <li> <a href="https://www.iso.org/standard/76559.html">ISO/IEC 27018:2019</a></li>
-  <li> <a href="https://www.imda.gov.sg">MTCS SS 584</a></li>
-  <li> <a href="https://www.cisecurity.org/cis-benchmarks/">CIS Benchmark</a></li>
-</ul>
-
-# Соответствия
-<ol>
-<li> <a href="https://github.com/AntonBangoura/Veille_Securite_Cloud_Russophone/edit/main/Awesome_Cloud_Security_Resources_Russian/Readme.md#Инфраструктура">Инфраструктура</a></li>
-<li>Контейнер</li>
-<li>SaaS</li>
-<li>Xакинг/обучение</li>
-<li>Oблачных</li>
-</ol>
-
-# Инфраструктура
-<ul>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-<li> <a href="https://github.com/ThreatResponse/aws_ir">aws_ir</a>: Устанавливаемая на Python утилита командной строки для предотвращения компрометации экземпляров.</li>
-<li> <a href="https://github.com/globaldatanet/aws-firewall-factory">aws-firewall-factory</a>: Развертывайте, обновляйте и размещайте свои WAF, управляя ими централизованно через FMS.</li>
-<li> <a href="https://github.com/99designs/aws-vault">aws-vault</a>: Хранилище для безопасного хранения учетных данных AWS и доступа к ним в средах разработки.</li>
-<li> <a href="https://github.com/WithSecureLabs/awspx">awspx</a>: Графический инструмент для визуализации эффективных отношений доступа и ресурсов в AWS.</li>
-<li> <a href="https://github.com/nccgroup/azucar">azucar</a>: Инструмент аудита безопасности для Azure.</li>
-<li> <a href="https://github.com/bridgecrewio/checkov">checkov</a>: Инструмент статического анализа кода для инфраструктуры как кода.</li>
-<li> <a href="https://github.com/google/cloud-forensics-utils">cloud-forensics-utils</a>: Библиотека Python для DF и IR в облаке.</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-<li> <a href="https://github.com/dagrz/aws_pwn">aws_pwn</a>: Инструменты и методы тестирования безопасности AWS</li>
-</ul>
-
 <br/>
 <div align="center">
 
-A curated list of awesome cloud security related resources.
-
+Кураторский список потрясающих ресурсов, связанных с облачной безопасностью.
 </div>
 <br/>
 
 # Awesome Cloud Security
-🛡️ Awesome Cloud Security Resources ⚔️
+🛡️ Ресурсы по облачной безопасности ⚔️
 
-# Contents
-- [Standards](#standards)
-- [Tools](#tools)
-- [Reading materials](#reading-materials)
-- [Resource](#resource)
-- [Contributing](#contributing)
+# Указатель
+- [Стандарты](#Стандарты)
+- [Инструменты](#Инструменты)
+- [Материалы для чтения](#Материалы-для-чтения)
+- [Ресурс](#Ресурс)
 
-# Standards
-- [Compliances](#compliances)
-- [Benchmarks](#benchmarks)
+# Стандарты
 
-## Compliances
 * [CSA STAR](https://cloudsecurityalliance.org/star/)
 * [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
 * [ISO/IEC 27018:2019](https://www.iso.org/standard/76559.html)
 * [MTCS SS 584](https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/ComplianceAndCertification)
-
-## Benchmarks
 * [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 
-# Tools
-- [Infrastructure](#infrastructure)
-- [Container](#container)
+# Инструменты
+- [Инфраструктура](#infrastructure)
+- [Контейнер](#Контейнер)
 - [SaaS](#saas)
-- [Penetration testing/learning](#penetration-testinglearning)
-- [Native tools](#nativetools)
+- [Xакинг/обучение](#Xакинг/обучение)
+- [Oблачных](#Oблачных)
 
 ## Infrastructure
-* [aws_pwn](https://github.com/dagrz/aws_pwn): A collection of AWS penetration testing junk
-* [aws_ir](https://github.com/ThreatResponse/aws_ir): Python installable command line utility for mitigation of instance and key compromises.
-* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory): Deploy, update, and stage your WAFs while managing them centrally via FMS.
-* [aws-vault](https://github.com/99designs/aws-vault): A vault for securely storing and accessing AWS credentials in development environments.
-* [awspx](https://github.com/FSecureLABS/awspx): A graph-based tool for visualizing effective access and resource relationships within AWS.
-* [azucar](https://github.com/nccgroup/azucar): A security auditing tool for Azure environments
-* [checkov](https://github.com/bridgecrewio/checkov): A static code analysis tool for infrastructure-as-code.
-* [cloud-forensics-utils](https://github.com/google/cloud-forensics-utils): A python lib for DF & IR on the cloud.
+* [aws_pwn](https://github.com/dagrz/aws_pwn): Инструменты и методы тестирования безопасности AWS.
+* [aws_ir](https://github.com/ThreatResponse/aws_ir): Устанавливаемая на Python утилита командной строки для предотвращения компрометации экземпляров.
+* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory): Развертывайте, обновляйте и размещайте свои WAF, управляя ими централизованно через FMS.
+* [aws-vault](https://github.com/99designs/aws-vault): Хранилище для безопасного хранения учетных данных AWS и доступа к ним в средах разработки.
+* [awspx](https://github.com/FSecureLABS/awspx): Графический инструмент для визуализации эффективных отношений доступа и ресурсов в AWS.
+* [azucar](https://github.com/nccgroup/azucar): Инструмент аудита безопасности для Azure.
+* [checkov](https://github.com/bridgecrewio/checkov): Инструмент статического анализа кода для инфраструктуры как кода.
+* [cloud-forensics-utils](https://github.com/google/cloud-forensics-utils): Библиотека Python для DF и IR в облаке.
 * [Cloud-Katana](https://github.com/Azure/Cloud-Katana): Automate the execution of simulation steps in multi-cloud and hybrid cloud environments.
 * [cloudlist](https://github.com/projectdiscovery/cloudlist): Listing Assets from multiple Cloud Providers.
 * [Cloud Sniper](https://github.com/cloud-sniper/cloud-sniper): A platform designed to manage Cloud Security Operations.

@@ -189,6 +189,6 @@
 1. [Bucket search by grayhatwarfare](https://buckets.grayhatwarfare.com/)
 
 ## Другие
-1. [Mapping of On-Premises Security Controls vs. Major Cloud Providers Services](https://www.eventid.net/docs/onprem_to_cloud.asp)
+1. [Сопоставление локальных средств управления безопасностью и основных служб облачных провайдеров](https://www.eventid.net/docs/onprem_to_cloud.asp)
 
 # 🛡️ Большое спасибо за "Amazing Cloud ressources" от 4andersonlin за его потрясающую работу! ⚔️

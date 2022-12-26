@@ -18,3 +18,8 @@ There are two types
 Additional ressources:
 
 https://github.com/diokhancze/cloud-security-remediation-guides
+
+
+
+
+For more infos, especially detailed information about the use of tools and questions concerning Russian-speaking hacking ecosystems, contact me at: https://ua.linkedin.com/in/anton-bangoura-68a2151a2

@@ -10,7 +10,7 @@
 
 There are two types
 
-1-  Watch of security ecosystem in russian-speaking infosphere, inside the file Watch_Security <br>
+1- Watch of security ecosystem in russian-speaking infosphere, inside the file Watch_Security <br>
 2- Report of cloud-related security tools, in other files. <br>
 
 

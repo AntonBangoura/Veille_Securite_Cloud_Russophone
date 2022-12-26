@@ -1,7 +1,15 @@
-### Veille de securite concernant le monde russophone pour la securite relative au cloud.
+### Veille de sécurité concernant le monde russophone pour la sécurité relative au cloud.
 
-1- Report of cloud-related security tools. <br>
-2- Watch of security ecosystem in russian-speaking infosphere.
+In the files above, you can check and use many ressources concerning cloud security. <br>
 
+
+There are two types
+
+1-  Watch of security ecosystem in russian-speaking infosphere, inside the file Watch_Security <br>
+2- Report of cloud-related security tools, in other files. <br>
+
+
+
+Additional ressources:
 
 https://github.com/diokhancze/cloud-security-remediation-guides

@@ -1,4 +1,5 @@
-# AWS Security audit tools. For the Russian translation and hints about the use, contact me at : https://ua.linkedin.com/in/anton-bangoura-68a2151a2
+# AWS Security audit tools.
+For the Russian translation and hints about the use, contact me at : https://ua.linkedin.com/in/anton-bangoura-68a2151a2
 ## Table of Contents
 
 - [Contribute](#contribute)

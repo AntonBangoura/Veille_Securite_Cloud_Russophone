@@ -1,6 +1,5 @@
 <br/>
 <div align="center">
-⚔️🛡️
 # Veille russophone pour la sécurité relative au cloud
 </div>
 <br/>

@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-# 🛡️Veille de sécurité concernant le monde russophone pour la sécurité relative au cloud ⚔️
+# 🛡️Veille russophone pour la sécurité relative au cloud ⚔️
 </div>
 <br/>
 

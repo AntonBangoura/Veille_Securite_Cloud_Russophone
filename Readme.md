@@ -5,8 +5,7 @@
 </div>
 <br/>
 
-# 🛡️ In the files above, you can check and use many ressources concerning cloud security. ⚔️
-
+###  In the files above, you can check and use many ressources concerning cloud security
 
 
 There are two types

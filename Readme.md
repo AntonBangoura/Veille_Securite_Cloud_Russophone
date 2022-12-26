@@ -1,6 +1,12 @@
-### Veille de sécurité concernant le monde russophone pour la sécurité relative au cloud.
+<br/>
+<div align="center">
 
-In the files above, you can check and use many ressources concerning cloud security. <br>
+Veille de sécurité concernant le monde russophone pour la sécurité relative au cloud.
+</div>
+<br/>
+
+# 🛡️ In the files above, you can check and use many ressources concerning cloud security. ⚔️
+
 
 
 There are two types

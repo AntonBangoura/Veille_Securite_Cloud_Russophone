@@ -18,7 +18,8 @@ You will find two Types of documents:
 
 Additional ressources:
 
-https://github.com/diokhancze/cloud-security-remediation-guides
+https://github.com/diokhancze/cloud-security-remediation-guides<br>
+https://github.com/darkbitio/aws-recon
 
 
 For more infos, especially detailed information about the use of tools and questions concerning Russian-speaking hacking ecosystems, contact me at: https://ua.linkedin.com/in/anton-bangoura-68a2151a2

@@ -6,7 +6,7 @@ https://spy-soft.net
 # Vulnerability databank in Russian
 https://www.securitylab.ru/vulnerability/page1_1.php
 
-# There is an automatic translation of any ressources coming from those websites:
+### There is widely shared and known automatic translation of any ressources coming from those websites:
     2.1 CIRCL
     2.2 VulDB
     2.3 SecurityFocus

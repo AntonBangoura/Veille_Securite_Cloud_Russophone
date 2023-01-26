@@ -246,3 +246,4 @@
 
 - https://github.com/nccgroup/azucar
 
+https://raw.githubusercontent.com/kayoch1n/XSS-mindmap/master/XSS2.png
